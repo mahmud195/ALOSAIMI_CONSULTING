@@ -4,7 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig(() => ({
-  base: "/remix-of-ai-video-studio-landing-page/",
+  base: "/ALOSAIMI_CONSULTING/",
   server: {
     host: "::",
     port: 8080,
